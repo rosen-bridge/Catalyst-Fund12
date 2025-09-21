@@ -25,12 +25,12 @@ Event Id: `34e5024a55b6f4292c88984a6fde8cb87e3fa0af1bd973c90337e85552bd0011`
 - Reward Distribution: https://explorer.ergoplatform.com/en/transactions/a8a680398003cfa0ba7d5c73904e77a476460081e4ba45eb56cfa7da8311d063
 
 <p align="center">
-    <img src="rpnFoxtrot.Binance-BitcoinRunes.png">
+    <img src="Screenshots/rpnFoxtrot.Binance-BitcoinRunes.png">
     <em>Bridge <code>rpnFoxtrot</code> from Binance to Bitcoin Runes</em>
 </p>
 
 <p align="center">
-    <img src="rpnFoxtrot.Confirmation.png">
+    <img src="Screenshots/rpnFoxtrot.Confirmation.png">
     <em>Confirmation Popup</em>
 </p>
 
@@ -49,23 +49,23 @@ Event Id: 64ec5282210cc129afd65263f553dac0dbd230bc482050a8ee9939a70e6f1c74
 - Reward Distribution: https://explorer.ergoplatform.com/en/transactions/ef1326d65426cb3a7545eb13f9a2ae7ca9c50fffab7fa9124d5f36e2cb1a93f8
 
 <p align="center">
-    <img src="RPOCR.BitcoinRunes-Cardano.png">
+    <img src="Screenshots/RPOCR.BitcoinRunes-Cardano.png">
     <em>Bridge <code>ROSEN•POC•RUNE</code> from Binance to Bitcoin Runes</em>
 </p>
 
 <p align="center">
-    <img src="RPOCR.Confirmation.png">
+    <img src="Screenshots/RPOCR.Confirmation.png">
     <em>Confirmation Popup</em>
 </p>
 
 <table align="center">>
   <tr>
     <td align="center">
-      <img src="wallet-popup1.png" width="250px"><br>
+      <img src="Screenshots/wallet-popup1.png" width="250px"><br>
       <em>Wallet Popup (Assets)</em>
     </td>
     <td align="center">
-      <img src="wallet-popup2.png" width="250px"><br>
+      <img src="Screenshots/wallet-popup2.png" width="250px"><br>
       <em>Wallet Popup (UTxOs)</em>
     </td>
   </tr>
@@ -96,6 +96,7 @@ Event Id: `e44db22fb4b721c748edf4255875f826c035f24a4a88423e349bb89f08a36aa4`
 - Reward Distribution: https://explorer.ergoplatform.com/en/transactions/8111699dfc358f893b3fb72c39af705df914916b2265020b38a25114b9d8db63
 
 <p align="center">
-    <img src="Events-page.png">
+    <img src="Screenshots/Events-page.png">
     <em>Summay of the events in <a href="https://ui-rosen-git-dev-rosen-bridge.vercel.app/events">Rosen Pandora Events Page</a></em>
 </p>
+
